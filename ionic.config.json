@@ -1,0 +1,7 @@
+{
+  "name": "ultima",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
